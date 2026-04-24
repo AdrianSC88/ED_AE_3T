@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.codequality.inventario","l":"Inventario"},{"p":"com.codequality.inventario","l":"Producto"}];updateSearchResults();
